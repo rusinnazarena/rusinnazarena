@@ -5,7 +5,7 @@ Hola, me llamo Nazarena Florencia Rusin y soy de Buenos Aires,Desarrolladora Web
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Languajes
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/rusinnazarena)](https://github.com/rusinnazarena) 
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/rusinnazarena)](https://github.com/rusinnazarena) 
@@ -32,5 +32,5 @@ Hola, me llamo Nazarena Florencia Rusin y soy de Buenos Aires,Desarrolladora Web
 Mis metas son terminar mis estudios academicos en: Full Stack Developer, Python, Frontend y Cyber Security Essentials, ademas de aprender Go y Docker.
 
 
-### ☕ Get In Touch
+### ☕ Podes encontrarme
 - [Twitter](https://twitter.com/nazafr30)
