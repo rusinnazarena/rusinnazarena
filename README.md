@@ -2,7 +2,8 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-### 👋 Hey Guys I'm Nazarena
+### 👋 console.log("Hola Mundo");
+Hola, soy Nazarena y soy desarrolladora web de Buenos Aires, amante de la tecnología y la programación.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
