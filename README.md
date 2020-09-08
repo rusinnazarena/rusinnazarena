@@ -30,7 +30,7 @@
 
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+Finish my academic studies: Full Stack Developer, Python, Frontend and Cyber ​​Security Essentials.
 
 
 ### ☕ Get In Touch
