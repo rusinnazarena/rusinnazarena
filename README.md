@@ -29,7 +29,7 @@ Hola, soy Nazarena y soy desarrolladora web de Buenos Aires, amante de la tecnol
 
 
 ### 🔭 2020 Goal
-Mis metas son terminar mis estudios academicos en: Full Stack Developer, Python, Fronten y Cyber Security Essentials, ademas de aprender Go y Docker.
+Mis metas son terminar mis estudios academicos en: Full Stack Developer, Python, Frontend y Cyber Security Essentials, ademas de aprender Go y Docker.
 
 
 ### ☕ Get In Touch
