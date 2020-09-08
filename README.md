@@ -1,7 +1,7 @@
 ![](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
 ### 👋 console.log("Hola Mundo");
-Hola, me llamo Nazarena Florencia Rusin y soy desarrolladora web de Buenos Aires, amante de la tecnología y la programación.
+Hola, me llamo Nazarena Florencia Rusin y soy de Buenos Aires,Desarrolladora Web, amante de la tecnología y la programación.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
